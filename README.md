@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME:VESLIN ANISH A
+## REGISTER NO:212223240175
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -33,10 +35,13 @@ while True:
 ```
 ## OUPUT
 ## Client:
-![image](https://github.com/Purajiths/3b_CHAT_USING_TCP_SOCKETS/assets/145548193/231f1c49-187a-4062-8c8d-a9110664b2cd)
+![Screenshot 2024-05-15 102353](https://github.com/veslin23000303/3b_CHAT_USING_TCP_SOCKETS/assets/151148539/478ed14d-d0f9-45c1-aeb8-dcb642c853bc)
+
 
 ## Server:
-![WhatsApp Image 2024-05-10 at 11 07 52_6a81515a](https://github.com/Purajiths/3b_CHAT_USING_TCP_SOCKETS/assets/145548193/2409a8eb-a683-4791-bce3-b16d9456cabb)
+
+![Screenshot 2024-05-15 102407](https://github.com/veslin23000303/3b_CHAT_USING_TCP_SOCKETS/assets/151148539/1a837a7f-fbee-4477-9bf8-5e98e4b89718)
+
 
 
 
